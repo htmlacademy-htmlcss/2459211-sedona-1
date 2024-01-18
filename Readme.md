@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Иван Забровский](https://up.htmlacademy.ru/htmlcss-individual/1/user/2459211).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Изосимов](https://htmlacademy.ru/profile/id605037).
 
 ---
 
